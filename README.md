@@ -1,4 +1,4 @@
-# react_spring_todo_list_project
+# TODO List project using React and Spring API
 
 ## Installation
 Firstly, you need to install [Node.js](https://nodejs.org/en/) to use `npm` and [Git](https://git-scm.com/downloads) to use `git` in command prompt,
